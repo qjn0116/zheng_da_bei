@@ -1,0 +1,5 @@
+此部分存储内容：
+data/
+│   ├── raw_data.csv            ← 脱敏后的部分数据（展示用）
+│   ├── social_comments.csv     ← 社交媒体评论
+│   └── data_dictionary.md      ← 数据字典
