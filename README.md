@@ -81,9 +81,10 @@ SELECT monthly_income, AVG(impulse_buy_score) FROM survey_data GROUP BY monthly_
 
 -- 按年龄组对消费金额排序
 SELECT age_group, monthly_expense, ROW_NUMBER() OVER (PARTITION BY age_group ORDER BY expense_level DESC) FROM survey_data;
-完整 SQL 脚本见 sql/analysis.sql
+> 完整 SQL 脚本见 sql/analysis.sql
 
-📈 Python 分析
+
+##📈 Python 分析
 待补充（Notebook 完成后更新）
 
 计划内容
@@ -97,7 +98,7 @@ K-Means 聚类（4 类用户画像）
 
 决策树（购买意愿预测 + 特征重要性）
 
-🤖 AI 大模型验证
+##🤖 AI 大模型验证
 待补充（调用 DeepSeek API 分析用户评论）
 
 计划内容
@@ -107,12 +108,12 @@ K-Means 聚类（4 类用户画像）
 
 与问卷分析结论交叉验证
 
-📊 可视化看板（Tableau）
+##📊 可视化看板（Tableau）
 待补充
 
 [点击查看交互看板]（链接待补充）
 
-📝 项目亮点
+##📝 项目亮点
 亮点	说明
 真实数据 + 云端存储	400 份真实问卷，数据存储在阿里云 RDS，模拟企业级数据流
 全链路技术覆盖	SQL → Python → AI → 可视化，完整闭环
@@ -126,7 +127,7 @@ K-Means 聚类（4 类用户画像）
 
 [正大杯原报告]（report/）
 
-👤 作者
+###👤 作者
 GitHub：qjn0116
 
 项目时间：2025-2026
