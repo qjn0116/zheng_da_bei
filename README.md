@@ -15,6 +15,7 @@
 | 可视化 | Tableau Public / Matplotlib / Seaborn | 交互看板、雷达图、热力图 |
 | 版本控制 | Git + GitHub | 项目托管与协作 |
 
+```text
 ## 📁 文件结构  
 zheng_da_bei/
 ├── README.md
@@ -35,7 +36,7 @@ zheng_da_bei/
 ├── images/ # 所有可视化图
 ├── models/ # 决策树模型
 └── report/ # 原论文（可选）
-
+```
 ## 📊 核心分析结论  
 ### 1. 样本画像  
 - 主力为19-26岁女性（75%），在校生占72%，月收入5000以下占87.8%  
