@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-第四章分析代码 - 生成表4-1至4-7
-数据来源：市调源数据-序号版.xlsx
-要求：输出结果与模板中的数值完全一致
-"""
-
 import pandas as pd
 import numpy as np
 from scipy import stats
@@ -15,7 +8,7 @@ import statsmodels.api as sm
 from statsmodels.miscmodels.ordinal_model import OrderedModel
 
 # ==================== 1. 读取数据 ====================
-file_path = "市调源数据-序号版.xlsx"  # 请确保文件路径正确
+file_path = "市调源数据-序号版.xlsx"  
 df = pd.read_excel(file_path, sheet_name='Sheet1')
 print(f"数据读取成功: {df.shape[0]}行, {df.shape[1]}列")
 
