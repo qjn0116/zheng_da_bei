@@ -1,142 +1,88 @@
-# 🧸 Z世代娃衣消费行为分析
+# 🧸 Z世代娃衣消费行为分析  
+**正大杯参赛项目 · 数据分析师求职作品集**
 
-> 正大杯参赛项目 · 数据分析师求职作品集
+## 📌 项目简介  
+本项目聚焦Z世代棉花娃娃爱好者，基于**400份问卷 + 15场访谈 + 210条社交媒体评论**，围绕「身份认同—情感补偿—购买行为」框架，系统分析娃衣消费的心理动因与用户分群。  
+**核心结论**：娃衣消费呈“高频次、低金额、强冲动”特征，审美是第一驱动力，用户可划分为4类群体。
 
-## 📌 项目简介
-
-本项目聚焦 Z 世代棉花娃娃爱好者，围绕「身份认同 — 情感补偿 — 购买行为」三维框架，基于 **400 份问卷 + 15 场深度访谈 + 200+ 社交媒体评论**，系统分析了娃衣消费的心理动因、行为特征与群体分化规律。
-
-**核心结论：**
-- 娃衣消费呈「高频次、低金额、强冲动」特征，月消费 101-500 元占比 **75.5%**
-- 审美是第一驱动力，「独特设计」得分远超「价格合理性」
-- 消费者可划分为 4 类：情感驱动型（34.2%）、深度社群型（22.8%）、高消费中情感型（19.2%）、浅尝辄止型（23.8%）
-
----
-
-## 🛠️ 技术架构
-
+## 🛠️ 技术架构  
 | 层级 | 技术 | 说明 |
-| :--- | :--- | :--- |
-| **云基础设施** | 阿里云 RDS MySQL 8.0 | 云端数据存储，模拟真实生产环境 |
-| **数据探查** | SQL (DataGrip) | 数据清洗、分组统计、窗口函数、特征工程 |
-| **数据分析** | Python (Pandas, SciPy, Scikit-learn) | 描述统计、差异检验、聚类、决策树 |
-| **大模型** | DeepSeek API | 用户评论情感分类、主题提取、交叉验证 |
-| **可视化** | Tableau / Matplotlib / Seaborn | 交互看板、雷达图、热力图 |
-| **项目管理** | Git + GitHub | 版本控制、代码托管、项目展示 |
+|------|------|------|
+| 云数据库 | 阿里云 RDS MySQL | 模拟企业级数据存储 |
+| 数据探查 | SQL (DataGrip) | 分组统计、窗口函数、特征工程 |
+| 数据分析 | Python (Pandas, SciPy, Scikit-learn) | 统计检验、聚类、决策树 |
+| 大模型 | DeepSeek API | 用户评论情感分类与主题提取 |
+| 可视化 | Tableau Public / Matplotlib / Seaborn | 交互看板、雷达图、热力图 |
+| 版本控制 | Git + GitHub | 项目托管与协作 |
 
----
-
-## 📁 文件结构
+## 📁 文件结构  
 zheng_da_bei/
-├── README.md # 项目说明（本文件）
+├── README.md
 ├── data/
-│ ├── raw_data.csv # 脱敏后的问卷数据（100条样例）
-│ └── data_dictionary.md # 数据字典
+│ ├── raw_data.csv # 脱敏问卷数据（400条）
+│ ├── data_cleaned.csv # 清洗后数据
+│ ├── data_with_clusters.csv # 含聚类标签
+│ └── data_dictionary.md
 ├── sql/
-│ └── analysis.sql # SQL 探查脚本（含结果注释）
+│ └── analysis.sql # SQL探查脚本
 ├── notebooks/
-│ ├── 01_eda_analysis.ipynb # 描述统计 + 可视化
-│ ├── 02_clustering.ipynb # K-Means 聚类分析
-│ └── 03_decision_tree.ipynb # 决策树（购买意愿预测）
-├── llm/
-│ └── sentiment_analysis.ipynb # 大模型情感分析
-├── dashboard/
-│ └── dashboard_link.txt # Tableau 看板链接
-└── report/
-└── 正大杯项目报告.pdf # 原始论文
+│ ├── 01_data_cleaning.ipynb
+│ ├── 02_eda_analysis.ipynb
+│ ├── 03_difference_correlation.ipynb
+│ ├── 04_clustering_analysis.ipynb
+│ ├── 05_decision_tree.ipynb
+│ └── 06_llm_sentiment_analysis.ipynb
+├── images/ # 所有可视化图
+├── models/ # 决策树模型
+└── report/ # 原论文（可选）
 
+## 📊 核心分析结论  
+### 1. 样本画像  
+- 主力为19-26岁女性（75%），在校生占72%，月收入5000以下占87.8%  
+- 消费行为：月消费101-500元占**75.5%**，冲动购买倾向强占**60%**，社群高活跃占**60%**
 
----
+### 2. 描述统计与差异检验  
+- 年龄显著影响消费金额（ANOVA p<0.001），19-26岁消费最高  
+- 收入、性别、城市级别对消费无显著影响 → 体现“线上平等”
 
-## 💾 数据说明
+### 3. 用户分群（K-Means）  
+| 用户类型 | 占比 | 特征 |
+|----------|------|------|
+| 浅尝辄止型 | 25% | 低消费、低社群、待培养 |
+| 高消费中情感型 | 18.5% | 消费最高、审美驱动 |
+| 情感驱动型 | 27.5% | 情感补偿需求强、中等消费 |
+| 深度社群型 | 29% | 社群活跃、归属感强 |
 
-- **数据来源**：问卷星（400 份有效问卷）+ 深度访谈（15 人）+ 社交媒体评论（210 条）
-- **脱敏处理**：已删除 IP 地址、用户标识等个人信息
-- **存储方式**：阿里云 RDS MySQL，支持远程访问和 SQL 探查
+> 雷达图及平行坐标图见 `images/`
 
-> 详细字段说明见 `data/data_dictionary.md`
+### 4. 决策树（购买意愿预测）  
+- **特征重要性**：月可支配收入 > 城市级别 > 独特设计认同 > 视频平台使用  
+- 模型准确率约59%，高意愿用户召回率50% → 可用于营销筛选
 
----
+### 5. AI大模型验证（对齐论文第六章）  
+- 对210条评论使用DeepSeek API分析：  
+  - 正面评论占比 **78%**  
+  - 核心主题：情感补偿（38%）、审美溢价（35%）、社群归属（22%）  
+  - 高频情绪词：“治愈”“解压”“惊喜”  
+- 结论与问卷高度一致，交叉验证了“情感驱动+审美主导”
 
-## 🗄️ SQL 分析（阿里云 RDS + DataGrip）
+## 📈 Tableau 看板  
+[点击查看交互看板](https://public.tableau.com/views/...)  
+![看板截图](images/dashboard_overview.png)
 
-### 数据探查
-```sql
--- 总样本量：400 份
-SELECT COUNT(*) FROM survey_data;
+## 🔗 如何运行  
+1. 克隆仓库  
+2. 安装依赖：`pip install pandas numpy matplotlib seaborn scikit-learn openai wordcloud`  
+3. 在 `notebooks/` 中顺序运行（需配置DeepSeek API key）  
+4. 或直接查看已输出的图表与结论
 
--- 年龄分布：19-26岁占 75%
-SELECT age_group, COUNT(*) FROM survey_data GROUP BY age_group;
-消费行为分析
-sql
--- 月消费分布：101-500元占 75.5%
-SELECT monthly_expense, COUNT(*) FROM survey_data GROUP BY monthly_expense;
+## 💡 项目亮点  
+- **云端数据库 + SQL探查**：阿里云RDS模拟真实工作流  
+- **全链路分析**：从清洗、统计检验、聚类、决策树到AI文本分析  
+- **AI增强**：大模型替代人工编码，自动化验证问卷结论  
+- **业务导向**：输出用户分群、购买意愿预测、营销策略建议  
 
--- 冲动购买倾向：70% 用户同意/非常同意
-SELECT impulse_buy, COUNT(*) FROM survey_data GROUP BY impulse_buy;
-分组统计与窗口函数
-sql
--- 不同收入组的冲动购买倾向
-SELECT monthly_income, AVG(impulse_buy_score) FROM survey_data GROUP BY monthly_income;
-
--- 按年龄组对消费金额排序
-SELECT age_group, monthly_expense, ROW_NUMBER() OVER (PARTITION BY age_group ORDER BY expense_level DESC) FROM survey_data;
-> 完整 SQL 脚本见 sql/analysis.sql
-
----
-##📈 Python 分析
-待补充（Notebook 完成后更新）
-
-计划内容
-描述性统计 + 可视化
-
-差异检验（年龄/收入对消费的影响）
-
-相关性分析 + 热力图
-
-K-Means 聚类（4 类用户画像）
-
-决策树（购买意愿预测 + 特征重要性）
-
----
-##🤖 AI 大模型验证
-待补充（调用 DeepSeek API 分析用户评论）
-
-计划内容
-对 200+ 社交媒体评论进行情感分类
-
-提取主题：审美 / 情感补偿 / 社交 / 收藏
-
-与问卷分析结论交叉验证
-
----
-##📊 可视化看板（Tableau）
-待补充
-
-[点击查看交互看板]（链接待补充）
-
----
-##📝 项目亮点
-亮点	说明
-真实数据 + 云端存储	400 份真实问卷，数据存储在阿里云 RDS，模拟企业级数据流
-全链路技术覆盖	SQL → Python → AI → 可视化，完整闭环
-多元化分析方法	描述统计、聚类、决策树、大模型情感分析
-业务导向结论	用户分群、转化路径、精准营销策略，可直接落地
-版本控制规范	GitHub 托管，SQL 脚本、Notebook、文档结构清晰
-🔗 相关链接
-[阿里云 RDS 控制台]（内部）
-
-[Tableau 看板]（待补充）
-
-[正大杯原报告]（report/）
-
-
-###👤 作者
-GitHub：qjn0116
-
-项目时间：2025-2026
-
-联系方式：待补充
-
-📄 License
-仅供学习交流使用。数据已脱敏，不涉及个人隐私。
+## 👤 作者  
+- GitHub: [qjn0116](https://github.com/qjn0116)  
+- 项目时间: 2025-2026  
+- 数据已脱敏，仅供学习交流
