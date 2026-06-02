@@ -1,0 +1,2042 @@
+{
+  "1": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "治愈",
+      "解压",
+      "温暖"
+    ],
+    "id": 1
+  },
+  "2": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "情感补偿",
+      "收藏"
+    ],
+    "emotions": [
+      "温暖",
+      "陪伴",
+      "治愈"
+    ],
+    "id": 2
+  },
+  "3": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "情感补偿",
+      "审美"
+    ],
+    "emotions": [
+      "解压",
+      "开心",
+      "治愈",
+      "温暖"
+    ],
+    "id": 3
+  },
+  "4": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "情感补偿",
+      "审美"
+    ],
+    "emotions": [
+      "陪伴",
+      "治愈",
+      "温暖",
+      "开心"
+    ],
+    "id": 4
+  },
+  "5": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "情感补偿"
+    ],
+    "emotions": [
+      "治愈",
+      "解压"
+    ],
+    "id": 5
+  },
+  "6": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "情感补偿"
+    ],
+    "emotions": [
+      "孤独",
+      "温暖",
+      "陪伴"
+    ],
+    "id": 6
+  },
+  "7": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "开心",
+      "治愈",
+      "解压",
+      "温暖"
+    ],
+    "id": 7
+  },
+  "8": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "审美",
+      "情感补偿",
+      "收藏"
+    ],
+    "emotions": [
+      "开心",
+      "治愈",
+      "解压",
+      "温暖"
+    ],
+    "id": 8
+  },
+  "9": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "治愈",
+      "焦虑",
+      "温暖",
+      "陪伴"
+    ],
+    "id": 9
+  },
+  "10": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "情感补偿",
+      "审美"
+    ],
+    "emotions": [
+      "治愈",
+      "温暖",
+      "开心"
+    ],
+    "id": 10
+  },
+  "11": {
+    "sentiment": "正面",
+    "intensity": 0.7,
+    "themes": [
+      "情感补偿",
+      "审美"
+    ],
+    "emotions": [
+      "治愈",
+      "解压"
+    ],
+    "id": 11
+  },
+  "12": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "审美",
+      "情感补偿",
+      "身份认同"
+    ],
+    "emotions": [
+      "温暖",
+      "陪伴",
+      "治愈"
+    ],
+    "id": 12
+  },
+  "13": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "情感补偿"
+    ],
+    "emotions": [
+      "治愈",
+      "解压"
+    ],
+    "id": 13
+  },
+  "14": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "治愈",
+      "温暖",
+      "解压",
+      "陪伴"
+    ],
+    "id": 14
+  },
+  "15": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "情感补偿"
+    ],
+    "emotions": [
+      "温暖",
+      "陪伴",
+      "治愈"
+    ],
+    "id": 15
+  },
+  "16": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "治愈",
+      "解压",
+      "温暖",
+      "开心"
+    ],
+    "id": 16
+  },
+  "17": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "情感补偿",
+      "审美"
+    ],
+    "emotions": [
+      "治愈",
+      "开心",
+      "温暖",
+      "解压"
+    ],
+    "id": 17
+  },
+  "18": {
+    "sentiment": "正面",
+    "intensity": 0.7,
+    "themes": [
+      "情感补偿"
+    ],
+    "emotions": [
+      "解压",
+      "温暖"
+    ],
+    "id": 18
+  },
+  "19": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "开心",
+      "治愈",
+      "温暖",
+      "陪伴"
+    ],
+    "id": 19
+  },
+  "20": {
+    "sentiment": "正面",
+    "intensity": 0.7,
+    "themes": [
+      "情感补偿",
+      "审美"
+    ],
+    "emotions": [
+      "治愈",
+      "解压",
+      "温暖",
+      "陪伴"
+    ],
+    "id": 20
+  },
+  "21": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "情感补偿",
+      "社交"
+    ],
+    "emotions": [
+      "治愈",
+      "温暖",
+      "陪伴"
+    ],
+    "id": 21
+  },
+  "22": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "开心",
+      "解压"
+    ],
+    "id": 22
+  },
+  "23": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "情感补偿"
+    ],
+    "emotions": [
+      "治愈",
+      "温暖",
+      "陪伴"
+    ],
+    "id": 23
+  },
+  "24": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "治愈",
+      "温暖",
+      "陪伴"
+    ],
+    "id": 24
+  },
+  "25": {
+    "sentiment": "正面",
+    "intensity": 0.6,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "治愈",
+      "解压",
+      "温暖",
+      "陪伴"
+    ],
+    "id": 25
+  },
+  "26": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "情感补偿"
+    ],
+    "emotions": [
+      "解压",
+      "陪伴",
+      "治愈"
+    ],
+    "id": 26
+  },
+  "27": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "开心",
+      "治愈",
+      "解压"
+    ],
+    "id": 27
+  },
+  "28": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "温暖",
+      "治愈",
+      "解压"
+    ],
+    "id": 28
+  },
+  "29": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "开心",
+      "治愈",
+      "解压"
+    ],
+    "id": 29
+  },
+  "30": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "情感补偿"
+    ],
+    "emotions": [
+      "温暖",
+      "陪伴"
+    ],
+    "id": 30
+  },
+  "31": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "开心",
+      "惊喜",
+      "温暖"
+    ],
+    "id": 31
+  },
+  "32": {
+    "sentiment": "正面",
+    "intensity": 0.6,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "治愈",
+      "解压"
+    ],
+    "id": 32
+  },
+  "33": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "治愈",
+      "解压"
+    ],
+    "id": 33
+  },
+  "34": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "治愈",
+      "开心",
+      "温暖"
+    ],
+    "id": 34
+  },
+  "35": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "情感补偿"
+    ],
+    "emotions": [
+      "温暖",
+      "治愈",
+      "陪伴"
+    ],
+    "id": 35
+  },
+  "36": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "情感补偿"
+    ],
+    "emotions": [
+      "治愈",
+      "解压",
+      "温暖"
+    ],
+    "id": 36
+  },
+  "37": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "治愈",
+      "解压",
+      "温暖"
+    ],
+    "id": 37
+  },
+  "38": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "情感补偿"
+    ],
+    "emotions": [
+      "温暖",
+      "陪伴",
+      "治愈"
+    ],
+    "id": 38
+  },
+  "39": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "开心"
+    ],
+    "id": 39
+  },
+  "40": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "情感补偿"
+    ],
+    "emotions": [
+      "治愈",
+      "陪伴",
+      "温暖",
+      "解压"
+    ],
+    "id": 40
+  },
+  "41": {
+    "sentiment": "正面",
+    "intensity": 0.7,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "开心",
+      "治愈",
+      "解压"
+    ],
+    "id": 41
+  },
+  "42": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "情感补偿",
+      "审美"
+    ],
+    "emotions": [
+      "治愈",
+      "解压"
+    ],
+    "id": 42
+  },
+  "43": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "温暖",
+      "治愈"
+    ],
+    "id": 43
+  },
+  "44": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "治愈",
+      "温暖"
+    ],
+    "id": 44
+  },
+  "45": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "开心",
+      "治愈",
+      "解压",
+      "温暖"
+    ],
+    "id": 45
+  },
+  "46": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "治愈",
+      "温暖"
+    ],
+    "id": 46
+  },
+  "47": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "社交",
+      "情感补偿"
+    ],
+    "emotions": [
+      "开心"
+    ],
+    "id": 47
+  },
+  "48": {
+    "sentiment": "正面",
+    "intensity": 0.6,
+    "themes": [
+      "情感补偿"
+    ],
+    "emotions": [
+      "解压",
+      "治愈",
+      "温暖"
+    ],
+    "id": 48
+  },
+  "49": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "温暖",
+      "治愈"
+    ],
+    "id": 49
+  },
+  "50": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "情感补偿"
+    ],
+    "emotions": [
+      "治愈",
+      "解压",
+      "温暖"
+    ],
+    "id": 50
+  },
+  "51": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "情感补偿",
+      "审美"
+    ],
+    "emotions": [
+      "治愈",
+      "温暖",
+      "陪伴",
+      "开心"
+    ],
+    "id": 51
+  },
+  "52": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "开心",
+      "治愈",
+      "解压"
+    ],
+    "id": 52
+  },
+  "53": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "开心",
+      "治愈",
+      "惊喜"
+    ],
+    "id": 53
+  },
+  "54": {
+    "sentiment": "正面",
+    "intensity": 0.6,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "治愈",
+      "解压"
+    ],
+    "id": 54
+  },
+  "55": {
+    "sentiment": "正面",
+    "intensity": 0.7,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "解压",
+      "治愈"
+    ],
+    "id": 55
+  },
+  "56": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "情感补偿"
+    ],
+    "emotions": [
+      "温暖",
+      "治愈",
+      "陪伴"
+    ],
+    "id": 56
+  },
+  "57": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "开心",
+      "温暖",
+      "治愈"
+    ],
+    "id": 57
+  },
+  "58": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "审美",
+      "情感补偿",
+      "社交"
+    ],
+    "emotions": [
+      "开心"
+    ],
+    "id": 58
+  },
+  "59": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "治愈",
+      "解压",
+      "温暖",
+      "陪伴"
+    ],
+    "id": 59
+  },
+  "60": {
+    "sentiment": "正面",
+    "intensity": 0.85,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "治愈",
+      "解压",
+      "温暖"
+    ],
+    "id": 60
+  },
+  "61": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "解压",
+      "治愈"
+    ],
+    "id": 61
+  },
+  "62": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "情感补偿",
+      "审美"
+    ],
+    "emotions": [
+      "治愈",
+      "温暖",
+      "陪伴"
+    ],
+    "id": 62
+  },
+  "63": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "情感补偿",
+      "收藏",
+      "审美"
+    ],
+    "emotions": [
+      "开心",
+      "解压"
+    ],
+    "id": 63
+  },
+  "64": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "开心",
+      "治愈",
+      "解压"
+    ],
+    "id": 64
+  },
+  "65": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "情感补偿"
+    ],
+    "emotions": [
+      "治愈",
+      "温暖",
+      "陪伴"
+    ],
+    "id": 65
+  },
+  "66": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "治愈",
+      "解压",
+      "温暖"
+    ],
+    "id": 66
+  },
+  "67": {
+    "sentiment": "正面",
+    "intensity": 0.7,
+    "themes": [
+      "情感补偿"
+    ],
+    "emotions": [
+      "治愈",
+      "解压",
+      "温暖"
+    ],
+    "id": 67
+  },
+  "68": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "审美",
+      "情感补偿",
+      "社交"
+    ],
+    "emotions": [
+      "治愈",
+      "解压",
+      "温暖",
+      "陪伴"
+    ],
+    "id": 68
+  },
+  "69": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "情感补偿"
+    ],
+    "emotions": [
+      "温暖",
+      "陪伴"
+    ],
+    "id": 69
+  },
+  "70": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "开心",
+      "惊喜",
+      "温暖"
+    ],
+    "id": 70
+  },
+  "71": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "治愈",
+      "解压"
+    ],
+    "id": 71
+  },
+  "72": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "治愈",
+      "解压",
+      "温暖"
+    ],
+    "id": 72
+  },
+  "73": {
+    "sentiment": "正面",
+    "intensity": 0.7,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "开心",
+      "治愈"
+    ],
+    "id": 73
+  },
+  "74": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "治愈",
+      "解压"
+    ],
+    "id": 74
+  },
+  "75": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "审美",
+      "情感补偿",
+      "收藏"
+    ],
+    "emotions": [
+      "治愈",
+      "解压",
+      "温暖",
+      "陪伴"
+    ],
+    "id": 75
+  },
+  "76": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "治愈",
+      "温暖",
+      "陪伴",
+      "开心"
+    ],
+    "id": 76
+  },
+  "77": {
+    "sentiment": "正面",
+    "intensity": 0.85,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "治愈",
+      "温暖",
+      "陪伴"
+    ],
+    "id": 77
+  },
+  "78": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "治愈",
+      "解压"
+    ],
+    "id": 78
+  },
+  "79": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "情感补偿",
+      "审美"
+    ],
+    "emotions": [
+      "治愈",
+      "温暖",
+      "陪伴",
+      "解压"
+    ],
+    "id": 79
+  },
+  "80": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "开心",
+      "治愈",
+      "温暖"
+    ],
+    "id": 80
+  },
+  "81": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "社交",
+      "审美",
+      "情感补偿",
+      "身份认同"
+    ],
+    "emotions": [
+      "开心",
+      "温暖"
+    ],
+    "id": 81
+  },
+  "82": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "社交",
+      "情感补偿"
+    ],
+    "emotions": [
+      "开心",
+      "温暖",
+      "陪伴"
+    ],
+    "id": 82
+  },
+  "83": {
+    "sentiment": "正面",
+    "intensity": 0.85,
+    "themes": [
+      "社交",
+      "身份认同"
+    ],
+    "emotions": [
+      "开心",
+      "温暖",
+      "陪伴"
+    ],
+    "id": 83
+  },
+  "84": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "审美",
+      "情感补偿",
+      "社交"
+    ],
+    "emotions": [
+      "开心",
+      "温暖"
+    ],
+    "id": 84
+  },
+  "85": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "社交"
+    ],
+    "emotions": [
+      "孤独",
+      "温暖",
+      "开心"
+    ],
+    "id": 85
+  },
+  "86": {
+    "sentiment": "正面",
+    "intensity": 0.7,
+    "themes": [
+      "社交"
+    ],
+    "emotions": [
+      "开心",
+      "温暖",
+      "陪伴"
+    ],
+    "id": 86
+  },
+  "87": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "社交",
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "开心",
+      "温暖",
+      "陪伴"
+    ],
+    "id": 87
+  },
+  "88": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "社交",
+      "身份认同"
+    ],
+    "emotions": [
+      "开心",
+      "温暖"
+    ],
+    "id": 88
+  },
+  "89": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "社交",
+      "身份认同"
+    ],
+    "emotions": [
+      "开心",
+      "温暖",
+      "陪伴"
+    ],
+    "id": 89
+  },
+  "90": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "社交",
+      "情感补偿"
+    ],
+    "emotions": [
+      "开心",
+      "温暖",
+      "陪伴"
+    ],
+    "id": 90
+  },
+  "91": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "审美",
+      "社交"
+    ],
+    "emotions": [
+      "开心",
+      "温暖"
+    ],
+    "id": 91
+  },
+  "92": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "社交",
+      "身份认同"
+    ],
+    "emotions": [
+      "温暖",
+      "陪伴"
+    ],
+    "id": 92
+  },
+  "93": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "审美",
+      "社交"
+    ],
+    "emotions": [
+      "开心",
+      "温暖"
+    ],
+    "id": 93
+  },
+  "94": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "社交",
+      "收藏",
+      "价格",
+      "情感补偿"
+    ],
+    "emotions": [
+      "开心",
+      "温暖",
+      "陪伴"
+    ],
+    "id": 94
+  },
+  "95": {
+    "sentiment": "正面",
+    "intensity": 0.85,
+    "themes": [
+      "审美",
+      "社交",
+      "身份认同"
+    ],
+    "emotions": [
+      "开心",
+      "温暖"
+    ],
+    "id": 95
+  },
+  "96": {
+    "sentiment": "正面",
+    "intensity": 0.7,
+    "themes": [
+      "审美",
+      "社交",
+      "身份认同"
+    ],
+    "emotions": [
+      "开心",
+      "温暖"
+    ],
+    "id": 96
+  },
+  "97": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "社交",
+      "审美"
+    ],
+    "emotions": [
+      "开心",
+      "温暖",
+      "陪伴"
+    ],
+    "id": 97
+  },
+  "98": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "社交",
+      "情感补偿",
+      "身份认同"
+    ],
+    "emotions": [
+      "开心",
+      "温暖"
+    ],
+    "id": 98
+  },
+  "99": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "审美",
+      "社交"
+    ],
+    "emotions": [
+      "开心",
+      "温暖",
+      "陪伴"
+    ],
+    "id": 99
+  },
+  "100": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "审美",
+      "社交",
+      "情感补偿"
+    ],
+    "emotions": [
+      "开心",
+      "温暖",
+      "陪伴"
+    ],
+    "id": 100
+  },
+  "101": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "审美",
+      "社交",
+      "身份认同"
+    ],
+    "emotions": [
+      "开心",
+      "温暖",
+      "陪伴"
+    ],
+    "id": 101
+  },
+  "102": {
+    "sentiment": "正面",
+    "intensity": 0.7,
+    "themes": [
+      "社交",
+      "身份认同"
+    ],
+    "emotions": [
+      "温暖",
+      "陪伴"
+    ],
+    "id": 102
+  },
+  "103": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "社交",
+      "审美"
+    ],
+    "emotions": [
+      "开心",
+      "温暖"
+    ],
+    "id": 103
+  },
+  "104": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "社交",
+      "情感补偿"
+    ],
+    "emotions": [
+      "温暖",
+      "开心",
+      "陪伴"
+    ],
+    "id": 104
+  },
+  "105": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "审美",
+      "情感补偿",
+      "社交"
+    ],
+    "emotions": [
+      "温暖",
+      "陪伴",
+      "治愈"
+    ],
+    "id": 105
+  },
+  "106": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "社交",
+      "审美"
+    ],
+    "emotions": [
+      "开心",
+      "温暖"
+    ],
+    "id": 106
+  },
+  "107": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "审美",
+      "社交"
+    ],
+    "emotions": [
+      "开心",
+      "温暖",
+      "陪伴"
+    ],
+    "id": 107
+  },
+  "108": {
+    "sentiment": "正面",
+    "intensity": 0.6,
+    "themes": [
+      "社交"
+    ],
+    "emotions": [
+      "开心",
+      "温暖"
+    ],
+    "id": 108
+  },
+  "109": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "社交",
+      "身份认同",
+      "情感补偿",
+      "审美"
+    ],
+    "emotions": [
+      "温暖",
+      "开心",
+      "治愈"
+    ],
+    "id": 109
+  },
+  "110": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "社交",
+      "身份认同",
+      "审美"
+    ],
+    "emotions": [
+      "开心",
+      "温暖"
+    ],
+    "id": 110
+  },
+  "111": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "审美",
+      "社交"
+    ],
+    "emotions": [
+      "开心",
+      "温暖"
+    ],
+    "id": 111
+  },
+  "112": {
+    "sentiment": "正面",
+    "intensity": 0.7,
+    "themes": [
+      "审美",
+      "社交"
+    ],
+    "emotions": [
+      "开心",
+      "温暖",
+      "陪伴"
+    ],
+    "id": 112
+  },
+  "113": {
+    "sentiment": "中性",
+    "intensity": 0.3,
+    "themes": [
+      "社交"
+    ],
+    "emotions": [],
+    "id": 113
+  },
+  "114": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "社交",
+      "情感补偿",
+      "身份认同"
+    ],
+    "emotions": [
+      "开心",
+      "温暖",
+      "陪伴"
+    ],
+    "id": 114
+  },
+  "115": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "审美",
+      "社交",
+      "身份认同"
+    ],
+    "emotions": [
+      "开心",
+      "温暖"
+    ],
+    "id": 115
+  },
+  "116": {
+    "sentiment": "正面",
+    "intensity": 0.7,
+    "themes": [
+      "审美",
+      "社交"
+    ],
+    "emotions": [
+      "开心",
+      "惊喜"
+    ],
+    "id": 116
+  },
+  "117": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "社交",
+      "身份认同"
+    ],
+    "emotions": [
+      "开心",
+      "温暖",
+      "陪伴"
+    ],
+    "id": 117
+  },
+  "118": {
+    "sentiment": "正面",
+    "intensity": 0.6,
+    "themes": [
+      "社交"
+    ],
+    "emotions": [
+      "温暖",
+      "开心"
+    ],
+    "id": 118
+  },
+  "119": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "审美",
+      "情感补偿",
+      "社交"
+    ],
+    "emotions": [
+      "开心",
+      "治愈",
+      "温暖",
+      "陪伴"
+    ],
+    "id": 119
+  },
+  "120": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "社交",
+      "身份认同"
+    ],
+    "emotions": [
+      "开心",
+      "温暖",
+      "陪伴"
+    ],
+    "id": 120
+  },
+  "121": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "审美",
+      "社交",
+      "情感补偿"
+    ],
+    "emotions": [
+      "开心",
+      "温暖",
+      "陪伴"
+    ],
+    "id": 121
+  },
+  "122": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "审美",
+      "社交",
+      "收藏",
+      "身份认同"
+    ],
+    "emotions": [
+      "开心",
+      "温暖",
+      "陪伴"
+    ],
+    "id": 122
+  },
+  "123": {
+    "sentiment": "正面",
+    "intensity": 0.7,
+    "themes": [
+      "社交",
+      "情感补偿"
+    ],
+    "emotions": [
+      "温暖",
+      "陪伴"
+    ],
+    "id": 123
+  },
+  "124": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "审美",
+      "社交",
+      "情感补偿"
+    ],
+    "emotions": [
+      "开心",
+      "温暖",
+      "陪伴"
+    ],
+    "id": 124
+  },
+  "125": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "社交",
+      "收藏"
+    ],
+    "emotions": [
+      "开心",
+      "温暖"
+    ],
+    "id": 125
+  },
+  "126": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "社交",
+      "审美"
+    ],
+    "emotions": [
+      "开心",
+      "温暖",
+      "陪伴"
+    ],
+    "id": 126
+  },
+  "127": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "社交"
+    ],
+    "emotions": [
+      "温暖",
+      "陪伴"
+    ],
+    "id": 127
+  },
+  "128": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "社交",
+      "身份认同"
+    ],
+    "emotions": [
+      "开心",
+      "温暖"
+    ],
+    "id": 128
+  },
+  "129": {
+    "sentiment": "正面",
+    "intensity": 0.7,
+    "themes": [
+      "社交",
+      "情感补偿"
+    ],
+    "emotions": [
+      "解压",
+      "治愈"
+    ],
+    "id": 129
+  },
+  "130": {
+    "sentiment": "正面",
+    "intensity": 0.7,
+    "themes": [
+      "社交",
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "开心",
+      "温暖",
+      "陪伴"
+    ],
+    "id": 130
+  },
+  "131": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "惊喜"
+    ],
+    "id": 131
+  },
+  "132": {
+    "sentiment": "正面",
+    "intensity": 0.8,
+    "themes": [
+      "审美",
+      "价格"
+    ],
+    "emotions": [
+      "开心"
+    ],
+    "id": 132
+  },
+  "133": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "审美",
+      "价格"
+    ],
+    "emotions": [
+      "开心",
+      "惊喜"
+    ],
+    "id": 133
+  },
+  "134": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "审美",
+      "身份认同"
+    ],
+    "emotions": [
+      "开心",
+      "惊喜"
+    ],
+    "id": 134
+  },
+  "135": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "审美",
+      "情感补偿",
+      "身份认同"
+    ],
+    "emotions": [
+      "开心",
+      "惊喜"
+    ],
+    "id": 135
+  },
+  "136": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "审美",
+      "价格"
+    ],
+    "emotions": [
+      "开心",
+      "惊喜"
+    ],
+    "id": 136
+  },
+  "137": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "审美",
+      "价格"
+    ],
+    "emotions": [
+      "开心",
+      "惊喜"
+    ],
+    "id": 137
+  },
+  "138": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "审美",
+      "价格"
+    ],
+    "emotions": [
+      "开心",
+      "惊喜"
+    ],
+    "id": 138
+  },
+  "139": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "审美",
+      "社交"
+    ],
+    "emotions": [
+      "开心",
+      "温暖"
+    ],
+    "id": 139
+  },
+  "140": {
+    "sentiment": "正面",
+    "intensity": 1.0,
+    "themes": [
+      "审美",
+      "社交"
+    ],
+    "emotions": [
+      "惊喜",
+      "开心"
+    ],
+    "id": 140
+  },
+  "141": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "惊喜",
+      "开心"
+    ],
+    "id": 141
+  },
+  "142": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "审美",
+      "社交",
+      "收藏"
+    ],
+    "emotions": [
+      "开心",
+      "惊喜"
+    ],
+    "id": 142
+  },
+  "143": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "审美"
+    ],
+    "emotions": [
+      "开心",
+      "温暖"
+    ],
+    "id": 143
+  },
+  "144": {
+    "sentiment": "正面",
+    "intensity": 0.9,
+    "themes": [
+      "审美",
+      "情感补偿"
+    ],
+    "emotions": [
+      "开心",
+      "惊喜"
+    ],
+    "id": 144
+  },
+  "145": {
+    "sentiment": "负面",
+    "intensity": 0.8,
+    "themes": [],
+    "emotions": [
+      "失望",
+      "焦虑"
+    ],
+    "id": 145
+  },
+  "146": {
+    "sentiment": "负面",
+    "intensity": 0.9,
+    "themes": [
+      "审美",
+      "价格"
+    ],
+    "emotions": [
+      "失望"
+    ],
+    "id": 146
+  },
+  "147": {
+    "sentiment": "负面",
+    "intensity": 0.8,
+    "themes": [
+      "价格",
+      "社交"
+    ],
+    "emotions": [
+      "失望",
+      "焦虑"
+    ],
+    "id": 147
+  },
+  "148": {
+    "sentiment": "负面",
+    "intensity": 0.8,
+    "themes": [],
+    "emotions": [
+      "失望",
+      "焦虑"
+    ],
+    "id": 148
+  },
+  "149": {
+    "sentiment": "负面",
+    "intensity": 0.9,
+    "themes": [
+      "价格",
+      "审美"
+    ],
+    "emotions": [
+      "失望"
+    ],
+    "id": 149
+  },
+  "150": {
+    "sentiment": "负面",
+    "intensity": 0.9,
+    "themes": [
+      "审美",
+      "价格"
+    ],
+    "emotions": [
+      "失望"
+    ],
+    "id": 150
+  }
+}
