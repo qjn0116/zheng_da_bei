@@ -49,7 +49,7 @@ warnings.filterwarnings("ignore")
 # ============================================================
 #  API 配置 —— 运行前请修改这里
 # ============================================================
-API_KEY = "sk-e41a85988dc44ec698f2962bbf43bfd6"
+API_KEY = ""
 API_BASE = "https://api.deepseek.com/v1"  # 如用通义千问，改为 https://dashscope.aliyuncs.com/compatible-mode/v1
 MODEL_NAME = "deepseek-v4-flash"              # 模型名称
 PRE_ANALYZED = False                      # True=使用内置预分析结果，False=调用API（需配置API_KEY）
